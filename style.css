@@ -485,6 +485,8 @@ div.copied .text {
 .infoo img{
     margin-bottom: 50px;
 	width: 95vw;
+	height: 1%;
+
 }
 
 .links{
@@ -574,10 +576,7 @@ footer{
 	.mads{
         width: 100%; height: 50px; 
     }
-	
-	.footer img {
-		width: 90%;
-	}
+
 	.site-info {
 		padding: 0 5px;
 	}
